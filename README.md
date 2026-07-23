@@ -255,7 +255,7 @@ The project generates several key visualizations:
 
 ## Author
 
-**Anish Bose Gupta**
+**Anish Gupta**
 
 ## License
 
